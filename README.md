@@ -1,2 +1,1 @@
-# model
-submodule for model
+子模块演示 repo。
